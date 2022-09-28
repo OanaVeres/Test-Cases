@@ -41,6 +41,6 @@ User should not be able to login and a 'change password' message should appear.
 **Test Data:**
 
 - Username: oana.veres
-- Password: ABC123457
+- Password: XABC123456
 ---------------------------
 
