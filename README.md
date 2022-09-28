@@ -1,7 +1,7 @@
 # Test-Cases
 ------------------------------------------
 ## Below are some test cases samples that I wrote working on previous projects.
---------------------------
+
 *Test Case N. 1 - Login with correct credentials*
 
 **Description:** Check if the login works when a person uses a correct username and password.
@@ -16,7 +16,7 @@
 
 User should be able to login and is taken to his profile page.
 
-**Test Data**
+**Test Data:**
 
 Username: oana.veres
 
@@ -39,7 +39,7 @@ Password: ABC123456
 
 User should not be able to login and a 'change password' message should appear.
 
-**Test Data**
+**Test Data:**
 
 Username: oana.veres
 
