@@ -18,9 +18,8 @@ User should be able to login and is taken to his profile page.
 
 **Test Data:**
 
-Username: oana.veres
-
-Password: ABC123456
+- Username: oana.veres
+- Password: ABC123456
 
 ----------------------------------
 
@@ -41,6 +40,7 @@ User should not be able to login and a 'change password' message should appear.
 
 **Test Data:**
 
-Username: oana.veres
+- Username: oana.veres
+- Password: ABC123457
+---------------------------
 
-Password: ABC12345.
